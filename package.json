@@ -1,0 +1,25 @@
+{
+  "name": "bonsoird-pkg",
+  "version": "1.0.0",
+  "description": "'><iframe>ok</iframe>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzhunt-bonsoird/testing-repo.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bzhunt-bonsoird/testing-repo/issues"
+  },
+  "homepage": "https://github.com/bzhunt-bonsoird/testing-repo#readme",
+  "dependencies": {
+    "bonsoird-pkg": "^1.0.0"
+  }
+}
