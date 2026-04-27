@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bzhunt-bonsoird/testing-repo#readme",
   "dependencies": {
-    "bonsoird-pkg": "^1.0.0"
+    "bonsoird-pkg": "^2.0.0"
   }
 }
